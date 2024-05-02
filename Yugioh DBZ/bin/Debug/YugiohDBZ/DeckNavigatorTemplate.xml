@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Navigator>
+  <NumberOfDecks>1</NumberOfDecks>
+  <Decks>
+    <Deck>
+
+      <Path>YugiohDBZ\DeckTemplate.xml</Path>
+      <Name>Template</Name>
+      <DeckNumber>1</DeckNumber>
+
+    </Deck>
+  </Decks>
+
+</Navigator>

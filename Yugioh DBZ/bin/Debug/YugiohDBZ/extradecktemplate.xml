@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtraDeck>
+  <Name>Template</Name>
+  <FusionMonsters>
+    <WithoutEffects>
+
+      <FusionMonster>
+
+        <Name>a</Name>
+        <Type></Type>
+        <star>1</star>
+        <Picture></Picture>
+        <Description></Description>
+        <ATK>1</ATK>
+        <DEF>1</DEF>
+        <PositionInDeck>1</PositionInDeck>
+        <NumberOfRequiredMonsters>2</NumberOfRequiredMonsters>
+        <RequiredMonsters>
+
+          <RequiredMonster>e</RequiredMonster>
+          <RequiredMonster>f</RequiredMonster>
+
+        </RequiredMonsters>
+      </FusionMonster>
+
+    </WithoutEffects>
+
+    <WithEffects>
+      <FusionMonster>
+
+        <Name>b</Name>
+        <Type></Type>
+        <star>1</star>
+        <Picture></Picture>
+        <Description></Description>
+        <ATK>1</ATK>
+        <DEF>1</DEF>
+        <PositionInDeck>2</PositionInDeck>
+        <Effect></Effect>
+        <NumberOfRequiredMonsters>2</NumberOfRequiredMonsters>
+        <RequiredMonsters>
+
+          <RequiredMonster>z</RequiredMonster>
+          <RequiredMonster>zz</RequiredMonster>
+
+        </RequiredMonsters>
+
+      </FusionMonster>
+
+    </WithEffects>
+
+  </FusionMonsters>
+
+  <RitualMonsters>
+    <WithoutEffects>
+
+      <RitualMonster>
+
+        <Name>c</Name>
+        <Type></Type>
+        <star>1</star>
+        <Picture></Picture>
+        <Description></Description>
+        <ATK>1</ATK>
+        <DEF>1</DEF>
+        <PositionInDeck>3</PositionInDeck>
+        <SpellCardToSummon>r</SpellCardToSummon>
+        <RequiredTribute>zzz</RequiredTribute>
+
+      </RitualMonster>
+
+    </WithoutEffects>
+
+    <WithEffects>
+
+      <RitualMonster>
+
+        <Name>d</Name>
+        <Type></Type>
+        <star>1</star>
+        <Picture></Picture>
+        <Description></Description>
+        <ATK>1</ATK>
+        <DEF>1</DEF>
+        <PositionInDeck>4</PositionInDeck>
+        <Effect></Effect>
+        <SpellCardToSummon>rr</SpellCardToSummon>
+        <RequiredTribute>oo</RequiredTribute>
+
+      </RitualMonster>
+
+    </WithEffects>
+
+  </RitualMonsters>
+
+</ExtraDeck>

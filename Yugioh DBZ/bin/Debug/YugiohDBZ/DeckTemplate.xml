@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <Name>Template</Name>
+  <NumberOfCards>14</NumberOfCards>
+  <Monsters>
+
+    <NormalMonsters>
+
+      <WithoutEffects>
+
+        <Monster>
+          <Name>e</Name>
+          <Type></Type>
+          <star>1</star>
+          <Picture></Picture>
+          <Description></Description>
+          <ATK>1</ATK>
+          <DEF>1</DEF>
+          <PositionInDeck>1</PositionInDeck>
+        </Monster>
+
+        <Monster>
+          <Name>z</Name>
+          <Type></Type>
+          <star>1</star>
+          <Picture></Picture>
+          <Description></Description>
+          <ATK>1</ATK>
+          <DEF>1</DEF>
+          <PositionInDeck>2</PositionInDeck>
+        </Monster>
+
+      </WithoutEffects>
+
+      <WithEffects>
+        <Monster>
+          <Name>f</Name>
+          <Type></Type>
+          <star>1</star>
+          <Picture></Picture>
+          <Description></Description>
+          <ATK>1</ATK>
+          <DEF>1</DEF>
+          <PositionInDeck>3</PositionInDeck>
+          <Effect></Effect>
+        </Monster>
+
+        <Monster>
+          <Name>zz</Name>
+          <Type></Type>
+          <star>1</star>
+          <Picture></Picture>
+          <Description></Description>
+          <ATK>1</ATK>
+          <DEF>1</DEF>
+          <PositionInDeck>4</PositionInDeck>
+        </Monster>
+
+        <Monster>
+          <Name>zzz</Name>
+          <Type></Type>
+          <star>1</star>
+          <Picture></Picture>
+          <Description></Description>
+          <ATK>1</ATK>
+          <DEF>1</DEF>
+          <PositionInDeck>5</PositionInDeck>
+        </Monster>
+
+        <Monster>
+          <Name>oo</Name>
+          <Type></Type>
+          <star>1</star>
+          <Picture></Picture>
+          <Description></Description>
+          <ATK>1</ATK>
+          <DEF>1</DEF>
+          <PositionInDeck>6</PositionInDeck>
+        </Monster>
+
+      </WithEffects>
+
+    </NormalMonsters>
+
+  </Monsters>
+
+  <SpellCards>
+
+    <RitualSpellCards>
+
+      <RitualSpellCard>
+        <Name>r</Name>
+        <Picture></Picture>
+        <Description></Description>
+        <PositionInDeck>7</PositionInDeck>
+        <Tribute>zzz</Tribute>
+        <Summons>c</Summons>
+      </RitualSpellCard>
+
+      <RitualSpellCard>
+        <Name>rr</Name>
+        <Picture></Picture>
+        <Description></Description>
+        <PositionInDeck>8</PositionInDeck>
+        <Tribute>oo</Tribute>
+        <Summons>d</Summons>
+      </RitualSpellCard>
+
+    </RitualSpellCards>
+
+    <EquipSpellCards>
+      <EquipSpellCard>
+        <Name>t</Name>
+        <Picture></Picture>
+        <Description></Description>
+        <PositionInDeck>9</PositionInDeck>
+        <EquippedTo></EquippedTo>
+        <ATK>1</ATK>
+        <DEF>1</DEF>
+        <CanItBeUsedOnEveryone>True</CanItBeUsedOnEveryone>
+        <WhoCanItBeUsedOn>
+          <Monster></Monster>
+        </WhoCanItBeUsedOn>
+
+      </EquipSpellCard>
+
+    </EquipSpellCards>
+
+    <ContinuousSpellCards>
+
+      <ContinuousSpellCard>
+        <Name>y</Name>
+        <Picture></Picture>
+        <Description></Description>
+        <PositionInDeck>10</PositionInDeck>
+        <EquippedTo></EquippedTo>
+        <CanItBeUsedOnEveryone>True</CanItBeUsedOnEveryone>
+        <ATK>1</ATK>
+        <DEF>1</DEF>
+        <Duration>2</Duration>
+
+      </ContinuousSpellCard>
+
+    </ContinuousSpellCards>
+
+    <NormalSpellCards>
+
+      <NormalSpellCard>
+
+        <Name>o</Name>
+        <Picture></Picture>
+        <Description></Description>
+        <PositionInDeck>11</PositionInDeck>
+        <Effect></Effect>
+
+      </NormalSpellCard>
+
+    </NormalSpellCards>
+
+    <FusionSpellCards>
+
+      <FusionSpellCard>
+        <PositionInDeck>12</PositionInDeck>
+      </FusionSpellCard>
+
+    </FusionSpellCards>
+
+  </SpellCards>
+
+  <TrapCards>
+
+    
+
+  </TrapCards>
+</Deck>

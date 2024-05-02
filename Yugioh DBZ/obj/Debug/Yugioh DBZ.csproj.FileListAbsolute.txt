@@ -1,0 +1,30 @@
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.AssemblyReference.cache
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh_DBZ.Properties.Resources.resources
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.GenerateResource.cache
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.CoreCompileInputs.cache
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\bin\Debug\Yugioh DBZ.exe.config
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\bin\Debug\Yugioh DBZ.exe
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\bin\Debug\Yugioh DBZ.pdb
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh DBZ.exe
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh DBZ.pdb
+C:\Users\zahav\OneDrive\Desktop\yugioh game\Yugioh DBZ\obj\Debug\Yugioh_DBZ.Form1.resources
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\bin\Debug\Yugioh DBZ.exe.config
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\bin\Debug\Yugioh DBZ.exe
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\bin\Debug\Yugioh DBZ.pdb
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.AssemblyReference.cache
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh_DBZ.Form1.resources
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh_DBZ.Properties.Resources.resources
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.GenerateResource.cache
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.CoreCompileInputs.cache
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh DBZ.exe
+C:\Users\zahav\OneDrive\Desktop\my own software\Yugioh DBZ\obj\Debug\Yugioh DBZ.pdb
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\bin\Debug\Yugioh DBZ.exe.config
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\bin\Debug\Yugioh DBZ.exe
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\bin\Debug\Yugioh DBZ.pdb
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.AssemblyReference.cache
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh_DBZ.Form1.resources
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh_DBZ.Properties.Resources.resources
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.GenerateResource.cache
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh DBZ.csproj.CoreCompileInputs.cache
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh DBZ.exe
+C:\Users\zahav\OneDrive\Desktop\Yugioh DBZ\obj\Debug\Yugioh DBZ.pdb
